@@ -1,0 +1,547 @@
+
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins"
+}
+.parent
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.logo
+{
+    height: 100px;
+    width: 100px;
+}
+.logo img{
+    height: 100%;
+    width: 100%;
+}
+.sub_list li{padding: 50px;
+    list-style: none;
+}
+.sub_list a
+{
+    text-decoration: none;
+}
+.list 
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.sub_list  {
+    /* margin: 50px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sign a{
+    border: 3px black solid ;
+
+    margin: 20px;
+
+}
+
+.send{
+    margin-top: 30px;
+    color: orangered;
+    padding-left: 40px;
+    font-size: 30px;
+}
+
+
+.best{
+    font-size: 40px;
+    width: 618px;
+    height: 100px;
+    padding-left: 30px;
+}
+
+
+.full{
+    display: flex;
+    width: 550px;
+    font-size: 20px;
+    padding-top: 300px;
+    margin-left: 40px;
+}
+
+.gate{
+    position: relative;
+}
+
+.select IMG{
+    position: absolute;
+    width: 500px;
+    height: 600PX;
+    left: 700PX;
+}
+.find{
+padding-top: 50px;
+
+    display: flex;
+
+    justify-content: space-evenly;
+    
+    font-size: 40px;
+    width: 618px;
+    height: 100px;
+    padding-left: 30px;
+    font-size: 30px;
+
+}
+
+.out{
+margin-top: 30px;
+    display: flex;
+    margin-left: 40px;
+    
+}
+
+
+.demoe {
+    padding-top: 0px;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+
+
+.more A{
+    border-radius: 20px;
+  
+    background-color: orangered;
+    padding-top: 0px;
+    font-size: 30px;
+}
+.out a{ 
+    text-decoration: none;
+}
+
+.play {
+
+    margin-left:30px;
+}
+
+.run{
+    text-align: center;
+    padding-top: 200px;
+font-size: 30px;
+}
+
+
+
+
+.apple1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+
+.apple2{
+    padding-left: 130px;
+}
+
+.Weather h4{
+    width: 00px;
+}
+
+
+
+
+
+.div6{
+    margin-top: 90px;
+    text-align: center;
+    font-size: 70px
+
+}
+
+
+.rohit{
+    display: flex;
+    justify-content:space-evenly;
+   align-items: center;
+}
+.rotaet{
+    font-size: 19px;
+}
+
+
+.jaipur img{
+    margin-top: 60px;
+    border-radius: 40px;
+justify-content: space-evenly;
+}
+
+
+
+.book2{
+    padding-top: 80px;
+  padding-left: 80px;
+    font-size: 30px;
+}
+
+
+.nexttrip{
+    width: 500px;
+    font-size: 50px;
+}
+
+
+.TYPE{
+    padding-top: 50px;
+
+    margin-left: 58px;
+}
+
+.dell2{
+ margin-left: 100px;
+
+    
+}
+
+
+.book{
+    margin-top: 200px;
+    padding-left: 50px;
+}
+
+.Booking{
+    font-size: 40px;
+}
+
+
+.next{
+    padding-top: 30px;
+    width: 570px;
+    font-size: 40px;
+}
+.DOCTYPE{
+    position: relative;
+    padding-left: 60px;
+
+    margin-top: 90px;
+}
+
+.dell{position: relative;
+   padding-left: 90px;bottom: 100px;
+}
+
+.dolor{
+    width: 400px;
+}
+
+
+
+.test4 img{
+    position: absolute;
+    bottom: 400px;
+    border-radius: 50px;
+}
+.test4{
+    position: relative;
+
+    padding-left: 900px;
+
+
+}
+.to4{
+    position: absolute;
+
+    bottom: 300px;
+}
+
+
+.sit{
+    position: relative;
+}
+
+.Fine img{
+
+    padding-left: 800PX;
+    position: absolute;
+    bottom: 400px;
+    border-radius: 40px;
+}
+.come{
+    position:absolute;
+
+padding-left: 800px;
+bottom: 200px;
+}
+
+.rotaet{
+    display: flex;
+    position: relative;
+   
+}
+
+.content2 img{
+    margin: 20px;
+    border-radius: 50%;
+
+
+
+
+
+}
+.supr img{
+    margin: 20px;
+    border-radius: 50%;
+
+
+
+}
+
+.savee img{
+    margin: 20px;
+    border-radius: 50%;
+
+height: 20px;
+    
+}
+
+.the{
+    margin-top: 100px;
+}
+.the img{
+    position: absolute;
+    margin-top: 100px;
+    top: 5px;
+    left: 20px;
+}
+
+
+.Play2{
+    width: 500px;
+    margin-top: 00px;
+    position: absolute;
+   right: 10px;
+   left: 40px;
+ 
+}
+
+
+
+
+
+.what{
+    display: flex;
+
+    padding-left: 70px;
+}
+.lion h1{
+ margin: 30px;
+}
+
+
+
+.AboutUs{
+    width: 260px;
+
+    font-size: 30px;
+}
+
+
+
+
+
+.settle{
+    width: 570px;
+    margin-left: 300px;
+    border-radius: 20px;
+background-color: antiquewhite;
+position: relative;
+}
+
+.tag{
+    margin-top: 140px;
+    display: flex;
+
+    justify-content: space-evenly;
+}
+
+.input{
+padding: 60px;
+   text-align: center;
+
+width: 990px;
+padding-left:200px;
+
+}
+
+.code{
+    position: absolute;
+right: 550px;
+bottom: 100px;
+}
+
+.placeholder{
+    
+    position: relative;
+    padding-top: 80px;
+    padding-left: 400px;
+}
+
+
+
+   
+
+.enter input{
+    padding-top: 20px;
+    padding-bottom:20px ;
+    padding-right:20px ;
+    padding-left: 30px;
+}
+
+.enter button{
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    padding-right:20px ;
+    padding-left: 30px;
+    background-color: orange;
+}
+.sore{
+    position: absolute;
+
+    padding-left: 500px;
+    bottom: 260px;
+}
+.local{
+    padding-left: 50px;
+
+}
+
+
+
+.control {
+    display: flex;
+    margin-top: 200px;
+    padding-left: 0px;
+    text-decoration: none;
+}
+
+.alt{
+    margin-top: 30px;
+    width: 250px;
+    font-size: 20px;
+    padding-right: 50px;
+}
+
+.your a{
+    
+  
+    display: flex;
+
+}
+
+.youtub{
+    margin: 40px 40px 40px 40px;
+}
+.youtub ul{
+    list-style: none;
+    /* margin: 50px; */
+}
+.youtub a{
+    padding-top: 10px;
+    display: flex;
+    text-decoration: none;
+ 
+
+    
+}
+
+
+
+.help{
+    padding-top: 30px;
+}
+
+
+.panel{
+    display: flex;
+ position: relative;
+}
+
+.insta img{
+    width: 30px;
+    margin: 10px;
+    position: absolute;
+    left: 900px;
+    margin-left: 60px;
+    bottom: 140px;
+    
+   
+}
+
+
+.insta2 img {
+    margin: 10px;
+    position: absolute;
+    left: 990px;
+    margin-left: 60px;
+    bottom: 140px;
+    width: 30px;
+   
+}
+
+.insta1 img{
+    margin: 10px;
+    position: absolute;
+    left: 800px;
+    margin-left: 60px;
+    bottom: 130px;
+    width: 40px;
+   
+}
+
+.app{
+
+    
+    display: flex;
+    position: relative;
+
+}
+
+
+.app h3{
+
+    margin: 10px;
+    position: absolute;
+    left: 800px;
+    margin-left: 60px;
+    bottom: 90px;
+
+}
+
+.googel2{
+
+    margin: 10px;
+    position: absolute;
+    left: 900px;
+    margin-left: 60px;
+    bottom: 40px;
+
+}
+
+
+
+
+.googel1{
+
+    margin: 10px;
+    position: absolute;
+    left: 800px;
+    margin-left: 60px;
+    bottom: 40px;
+
+}
